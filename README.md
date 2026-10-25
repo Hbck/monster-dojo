@@ -11,6 +11,13 @@ A turn-based monster battling game built with plain HTML, CSS, and JavaScript.
 - Responsive design for mobile and desktop
 - Monster art with fallback loading system
 
+## Features Details
+
+- **Turn-based combat** - Strategic monster battles
+- **8 unique monsters** - Each with distinct abilities
+- **Offline-first** - Full PWA support with service worker
+- **No dependencies** - Pure vanilla JavaScript
+
 ## Development
 
 See `tools/README.md` for development instructions.
